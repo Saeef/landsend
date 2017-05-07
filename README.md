@@ -38,7 +38,7 @@ session cam
 - desktop only but remains fully responsive
 
 <kfd>V1</kfd>
-[v1](src/01. Designs/basketPageV1.png)
+[v1](src/01. Designs/Basket Page USPs v1.png)
 
 ### variation 2
 - removed 'quality guaranteed' in footer - does not show in variation
@@ -49,4 +49,7 @@ session cam
 - relocated 'swimwear' to the right before 'sale'
 - renamed 'swimwear' => 'sport'
 - desktop only but remains fully responsive
+
+<kfd>V1</kfd>
+[v1](src/01.%20Designs/Basket%20Page%20USPs%20v2.png)
 
