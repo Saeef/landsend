@@ -11,7 +11,7 @@
 ### targeting
 - www.landsend.co.uk/cart  (simple match);
 ### devices
- - desktop
+ - desktop requirement.  It did not take any extra effort to make it fully responsive ( site already is)
 ### browsers
 - chrome 45+
 - firefox 45+
