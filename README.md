@@ -37,6 +37,9 @@ session cam
 - renamed 'swimwear' => 'sport'
 - desktop only but remains fully responsive
 
+<kfd>V1</kfd>
+[v1](01. Designs/basketPageV1.png)
+
 ### variation 2
 - removed 'quality guaranteed' in footer - does not show in variation
 - created 'quality.guaranteed - safe & secure shopping' image
