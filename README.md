@@ -1,4 +1,30 @@
-## lands end
+## lands end :boom:
+
+### background
+- 45% of users are lost on the basket page
+- 28750 unique monthly visitors
+### hypothesis
+- adding purchase incentives to the basket page will give users confidence at a vital step in the journey to    
+  continue with their purchase increase conversion
+### goal
+- to increase conversion rate and revenue through basket
+### targeting
+- www.landsend.co.uk/cart  (simple match);
+### devices
+ - desktop
+### browsers
+- chrome 45+
+- firefox 45+
+- ie10 +
+
+### metrics
+- optimizely
+
+### integrations
+- adobe site cat
+session cam
+
+
 
 ### variation 1
 - removed 'explore our story' section of the footer
