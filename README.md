@@ -40,7 +40,7 @@ session cam
 
 
 <kbd>V1</kbd> :mag:
- ![v1](src/01. Designs/Basket Page USPs v1.png)
+ ![v1](/src/designs/basketPageV1.png)
 
 ### variation 2
 - removed 'quality guaranteed' in footer - does not show in variation
@@ -53,5 +53,5 @@ session cam
 - desktop only but remains fully responsive
 
 <kbd>V2</kbd> :mag:
- ![v2](src/01. Designs/Basket Page USPs v2.png)
+ ![v2](/src/designs/basketPageV2.png)
 
