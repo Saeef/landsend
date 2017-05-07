@@ -38,7 +38,7 @@ session cam
 - desktop only but remains fully responsive
 
 <kfd>V1</kfd>
-[v1](01. Designs/basketPageV1.png)
+[v1](src/01. Designs/basketPageV1.png)
 
 ### variation 2
 - removed 'quality guaranteed' in footer - does not show in variation
